@@ -1,4 +1,6 @@
-# BarberShop
+Sistema de Agendamento para Barbearia:
+Um Projeto Integrador com
+Java e PostgreSQL
 
 
 Este projeto integrador tem como objetivo principal consolidar os conhecimentos
